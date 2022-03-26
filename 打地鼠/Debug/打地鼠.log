@@ -1,0 +1,4 @@
+﻿  打地鼠1.cpp
+D:\Desktop\打地鼠\打地鼠1.cpp(119,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Desktop\打地鼠\打地鼠1.cpp(155,8): warning C4101: “musicPlay”: 未引用的局部变量
+  打地鼠.vcxproj -> D:\Desktop\打地鼠\Debug\打地鼠.exe
